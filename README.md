@@ -4,7 +4,7 @@ Sample app to demonstrate and get a hands-on-experience on designing Model-View-
 Using this architecture pattern, designed a login page with email and password validations. Once the details are entered and login is initiated, It displays the corresponding toast message.
 
 
-When valid login details are entered, the toast message is displayed as shown below
+When valid login details are entered, the toast message is displayed as shown below....
 
 
 
@@ -16,7 +16,7 @@ When valid login details are entered, the toast message is displayed as shown be
 
 
 
-When invalid login details are entered, the toast message is displayed as shown below
+When invalid login details are entered, the toast message is displayed as shown below....
 
 
 
